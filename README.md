@@ -1,5 +1,6 @@
 # ExButtonView
 仿Facebook折叠按钮 for swift2.0
+![](https://github.com/TokyoMilkTea/ExButtonView/raw/master/ExButton/demo.gif)
 ----------------
 ####使用方法
 #####导入ExButtonView文件夹中ExButtonView.swift文件
